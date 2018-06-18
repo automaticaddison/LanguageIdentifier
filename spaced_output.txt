@@ -1,0 +1,32 @@
+Addison Sears-Collins is a valid word in none of the languages.
+A is a valid word in L4  
+A B A B is a valid word in none of the languages.
+A B A B A B is a valid word in none of the languages.
+B C S D BQ F AB B is a valid word in none of the languages.
+J HU J is a valid word in none of the languages.
+J H U J H U is a valid word in none of the languages.
+J A V A J A V A is a valid word in none of the languages.
+Empty string is valid in L2  L3  L4
+B A B A is a valid word in none of the languages.
+
+----------------------------------------
+DESCRIPTIVE STATISTICS ABOUT THE RESULTS
+----------------------------------------
+Number of Languages Tested: 10
+Number of Strings Tested: 10
+Number of Valid L1 Strings: 0
+Number of Valid L2 Strings: 1
+Number of Valid L3 Strings: 1
+Number of Valid L4 Strings: 2
+Number of Valid L5 Strings: 0
+Number of Valid L6 Strings: 0
+Number of Valid L7 Strings: 0
+Number of Valid L8 Strings: 0
+Number of Valid L9 Strings: 0
+Number of Valid L10 Strings: 0
+
+----------------------------------------
+OBSERVED EXECUTION TIME
+----------------------------------------
+Execution Time: 5 milliseconds
+Author: Addison Sears-Collins

@@ -1,0 +1,37 @@
+AAABBB is a valid word in L1  L2  L4  
+AB is a valid word in L1  L2  L4  L7  
+Empty string is valid in L2  L3  L4
+ABABABA is a valid word in none of the languages.
+ABAB is a valid word in L1  L4  L7  
+BBAA is a valid word in L1  
+BBBAA is a valid word in none of the languages.
+AAB is a valid word in L4  
+AABBCCD is a valid word in none of the languages.
+ABCBA is a valid word in none of the languages.
+ABBBA is a valid word in none of the languages.
+ABBA is a valid word in L1  
+ABAABBAAABBB is a valid word in L1  
+AABACABAA is a valid word in none of the languages.
+AABBBAABBB is a valid word in L4  
+
+----------------------------------------
+DESCRIPTIVE STATISTICS ABOUT THE RESULTS
+----------------------------------------
+Number of Languages Tested: 10
+Number of Strings Tested: 15
+Number of Valid L1 Strings: 6
+Number of Valid L2 Strings: 3
+Number of Valid L3 Strings: 1
+Number of Valid L4 Strings: 6
+Number of Valid L5 Strings: 0
+Number of Valid L6 Strings: 0
+Number of Valid L7 Strings: 2
+Number of Valid L8 Strings: 0
+Number of Valid L9 Strings: 0
+Number of Valid L10 Strings: 0
+
+----------------------------------------
+OBSERVED EXECUTION TIME
+----------------------------------------
+Execution Time: 5 milliseconds
+Author: Addison Sears-Collins

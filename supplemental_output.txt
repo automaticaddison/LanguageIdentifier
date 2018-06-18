@@ -1,0 +1,70 @@
+ABB is a valid word in L3  L4  
+AABBBB is a valid word in L3  L4  
+AAABBBBBB is a valid word in L3  L4  
+AAAAAAAAAAAABBBBBBBBBBBB is a valid word in L1  L2  L4  
+JDHWUBGW is a valid word in none of the languages.
+AABBABA is a valid word in none of the languages.
+BBAABBAABBAABBAABBAA is a valid word in L1  
+AABBAABBAABBAABB is a valid word in L1  L4  
+ABABABABABABABABABAB is a valid word in L1  L4  L7  
+BABABABABABABABA is a valid word in L1  
+CBCBDBDBDBDBC is a valid word in none of the languages.
+ABBBB is a valid word in L4  
+AAABBBBBBBBBBBB is a valid word in L4  
+ABBBBB is a valid word in L4  L5  
+AABBBBBBBBBB is a valid word in L4  L5  
+AAAAA is a valid word in L4  
+BBBBBBB is a valid word in L4  
+Empty string is valid in L2  L3  L4
+AABBBBAABBBB is a valid word in L4  
+AAA is a valid word in L4  
+BBBB is a valid word in L4  
+AAAB is a valid word in L4  L6  
+AABAABAAB is a valid word in L4  
+ABABABABABABABAB is a valid word in L1  L4  L7  
+Empty string is valid in L2  L3  L4
+AABBBBAA is a valid word in L1  
+AABAB is a valid word in none of the languages.
+AABAABA is a valid word in none of the languages.
+BAA is a valid word in none of the languages.
+AABAABAB is a valid word in none of the languages.
+AABAABAAAAB is a valid word in none of the languages.
+AABAABABB is a valid word in none of the languages.
+BAAB is a valid word in L1  
+AABAABB is a valid word in none of the languages.
+AABAABAB is a valid word in none of the languages.
+AABAABABA is a valid word in none of the languages.
+AAAAAABB is a valid word in L4  L6  
+JAVA is a valid word in L8  
+JAVAJAVA is a valid word in L8  
+JAVAJAVAJAVA is a valid word in L8  
+JAVAJ is a valid word in none of the languages.
+JHU is a valid word in L9  
+JHUJHUJHU is a valid word in L9  
+JHUJH is a valid word in none of the languages.
+AAAAAAAAAAB is a valid word in L4  L10  
+AAAAAAAAAAAAAAAAAAAABB is a valid word in L4  L10  
+AAAAAAAAAB is a valid word in L4  
+AAAAAAAAAAAAAAAAAAAB is a valid word in L4  
+
+----------------------------------------
+DESCRIPTIVE STATISTICS ABOUT THE RESULTS
+----------------------------------------
+Number of Languages Tested: 10
+Number of Strings Tested: 48
+Number of Valid L1 Strings: 8
+Number of Valid L2 Strings: 3
+Number of Valid L3 Strings: 5
+Number of Valid L4 Strings: 25
+Number of Valid L5 Strings: 2
+Number of Valid L6 Strings: 2
+Number of Valid L7 Strings: 2
+Number of Valid L8 Strings: 3
+Number of Valid L9 Strings: 2
+Number of Valid L10 Strings: 2
+
+----------------------------------------
+OBSERVED EXECUTION TIME
+----------------------------------------
+Execution Time: 11 milliseconds
+Author: Addison Sears-Collins
